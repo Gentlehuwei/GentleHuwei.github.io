@@ -1,2 +1,2 @@
 # CSS3-clock-effects
-# just a digital clock 
+just a digital clock 
